@@ -1,0 +1,5 @@
+const notas = [9,6.5,7]
+
+notas[2] = 10;
+
+console.log(notas);
