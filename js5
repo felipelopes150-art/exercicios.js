@@ -1,0 +1,6 @@
+const estoque = new Map();
+
+estoque.set("Mouse", 5);
+estoque.set("Teclado", 10);
+
+console.log(estoque.get("Mouse"));
